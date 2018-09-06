@@ -2,4 +2,5 @@ from django.apps import AppConfig
 
 
 class PortfolioConfig(AppConfig):
-    name = 'portfolio'
+  name = 'portfolio'
+  # verbose_name = "Altered showing name"
